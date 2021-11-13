@@ -1,0 +1,19 @@
+Xbox
+----
+0 - A
+1 - B
+2 - X
+3 - Y
+4 - LB
+5 - RB
+6 - LT
+7 - RT
+8 - 2 boxes(idk what they are called)
+9 - 3 lines
+10 - LS Click
+11 - RS Click
+12 - Dpad up
+13 - dpad down
+14 - dpad left
+15 - dpad right
+16 - Xbox button

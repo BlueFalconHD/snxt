@@ -1,0 +1,21 @@
+[{
+    "info": {
+        "uuid": "a9f9f9f9-9f9f-9f9f-9f9f-9f9f9f9f9f9f",
+        "identifier": "devname:gamenamespace",
+        "version": 1.0,
+        "name": "Lorem Ipsum Game",
+        "desc": "loremipsumdolorsitamet"
+    },
+
+    "components": [
+        "snxt.main",
+        "snxt.storage",
+        "snxt.whatever other optional api we implement"
+    ],
+
+    "files": [{
+        "path": "scratch/main.sb3",
+        "type": "sb3"
+    }]
+
+}]
