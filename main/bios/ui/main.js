@@ -39,3 +39,16 @@ function userFlyout() {
         currentFlyout = '';
     }
 }
+
+
+function getTime() {
+    var time = new Date();
+    var time = time.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true })
+    return time;
+    
+}
+
+setInterval(() => {
+    let time = getTime();
+    document.getElementById('time').innerHTML = time;
+}, 100);
